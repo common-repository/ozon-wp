@@ -1,0 +1,55 @@
+.od-map-btn-wrapper {
+    display: block;
+}
+
+.od-map-btn-wrapper button {
+}
+
+.od-popup {
+    display: none;
+}
+
+.od-popup.open {
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #fff;
+    z-index: 99999;
+}
+
+.od-popup .od-popup-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    background: none;
+    color: #999;
+    font-size: 20px;
+    font-weight: bold;
+    outline: 0;
+    cursor: pointer;
+}
+
+.od-popup .od-popup-header {
+    padding: 20px;
+    height: 72px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 20px;
+    box-sizing: border-box;
+}
+
+.od-popup .od-popup-content {
+    height: calc(100% - 72px);
+}
+
+.od-popup .od-popup-content .yandex-map {
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}

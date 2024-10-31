@@ -1,0 +1,201 @@
+.od-popup {
+    display: none;
+}
+
+.od-popup.open {
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #fff;
+    z-index: 99999;
+}
+
+.od-popup .od-popup-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    background: none;
+    color: #999;
+    font-size: 20px;
+    font-weight: bold;
+    outline: 0;
+    cursor: pointer;
+}
+
+.od-popup .od-popup-header {
+    padding: 20px;
+    height: 72px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 20px;
+    box-sizing: border-box;
+}
+
+.od-popup .od-popup-content {
+    height: calc(100% - 72px);
+}
+
+.od-popup .od-popup-content .yandex-map {
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.od-form .form-row + .form-row {
+    margin-top: 10px;
+}
+
+.od-form .form-row.form-row-submit {
+    text-align: right;
+}
+
+.od-form .form-row .form-column-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.od-form .form-row .form-column-flex > * {
+    display: block;
+    align-self: center;
+}
+
+.od-form .form-row .form-column-flex span {
+    padding: 0 10px;
+}
+
+.od-form .form-row .form-column-flex input {
+    text-align: center;
+}
+
+#ozon-wp-panel .inside {
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+#ozon-wp-panel.loading .inside:after {
+    content: '';
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+#ozon-wp-panel .change-wrapper,
+#ozon-wp-panel .create-order-form-wrapper,
+#ozon-wp-panel .order-info-wrapper {
+    padding: 6px 12px;
+}
+
+#ozon-wp-panel .change-wrapper .shipping-info-wrapper .shipping-info-title {
+    font-weight: bold;
+}
+
+#ozon-wp-panel .change-wrapper .change-shipping-form {
+    display: none;
+    padding-top: 10px;
+}
+
+#ozon-wp-panel .change-wrapper .change-shipping-form .form-row label {
+    display: block;
+}
+
+#ozon-wp-panel .change-wrapper .change-shipping-form .form-row label + label {
+    margin-top: 5px;
+}
+
+#ozon-wp-panel .change-wrapper .change-shipping-form .form-row label .button-map {
+    display: block;
+    margin: 0 0 5px;
+}
+
+#ozon-wp-panel .change-wrapper .change-shipping-form .form-row label .button-map:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+#ozon-wp-panel .create-order-form-wrapper {
+    border-top: 1px solid #ddd;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-info {
+    padding: 5px;
+    font-size: 14px;
+    text-align: center;
+    color: #004500;
+    background: #D1F2AE;
+    border: 2px solid #86f257;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages {
+    margin-top: 10px;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package + .order-package {
+    padding-top: 10px;
+    margin-top: 10px;
+    border-top: 1px solid #ddd;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-title {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-document {
+    margin-top: 5px;
+    padding: 5px;
+    font-size: 14px;
+    text-align: center;
+    color: #004500;
+    background: #D1F2AE;
+    border: 2px solid #86f257;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-actions .button {
+    margin-top: 5px;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-history {
+    margin-top: 5px;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-history .order-package-history-title {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-history .order-package-history-rows + .order-package-history-title{
+    margin-top: 10px;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-history .order-package-history-rows {
+    margin-top: 5px;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-history .order-package-history-rows .order-package-history-row {
+    padding: 10px;
+    font-size: 12px;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-history .order-package-history-rows .order-package-history-row:nth-child(odd) {
+    background-color: #efefef;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-history .order-package-history-rows .order-package-history-row:nth-child(even) {
+    background-color: #F8F8F8;
+}
+
+#ozon-wp-panel .order-info-wrapper .order-packages .order-package .order-package-history .order-package-history-rows .order-package-history-row .history-date {
+    font-weight: bold;
+}

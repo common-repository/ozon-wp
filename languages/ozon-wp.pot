@@ -1,0 +1,180 @@
+# Translation for Plugin
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-12 00:02+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : "
+"2);\n"
+"X-Generator: Poedit 1.8.5\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - RC WooCommerce Buy One Click\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "Ozon Delivery"
+msgstr ""
+
+msgid "Ozon Courier"
+msgstr ""
+
+msgid "Ozon Pickup"
+msgstr ""
+
+msgid "Ozon Postamat"
+msgstr ""
+
+msgid "Print Sticker"
+msgstr ""
+
+msgid "Print Document"
+msgstr ""
+
+msgid "Create Document"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Select on map"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Buyer First Name"
+msgstr ""
+
+msgid "Buyer Last Name"
+msgstr ""
+
+msgid "Buyer Phone"
+msgstr ""
+
+msgid "Buyer E-mail"
+msgstr ""
+
+msgid "Buyer Type"
+msgstr ""
+
+msgid "Individual"
+msgstr ""
+
+msgid "Legal"
+msgstr ""
+
+msgid "Buyer Legal Name"
+msgstr ""
+
+msgid "Package Weight (kg)"
+msgstr ""
+
+msgid "Package Dimensions (cm)"
+msgstr ""
+
+msgid "From Warehouse"
+msgstr ""
+
+msgid "Full paid"
+msgstr ""
+
+msgid "Payed (%s)"
+msgstr ""
+
+msgid "Send Order"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Every minute"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Choose pickup point"
+msgstr ""
+
+msgid "Choose postamat"
+msgstr ""
+
+msgid "Please, choose point on map"
+msgstr ""
+
+msgid "Enable/Disable"
+msgstr ""
+
+msgid "Client ID"
+msgstr ""
+
+msgid "Client Secret"
+msgstr ""
+
+msgid "Yandex Maps Key"
+msgstr ""
+
+msgid "Default item weight (kg)"
+msgstr ""
+
+msgid "Default item weight if it not specified"
+msgstr ""
+
+msgid "Default item length (cm)"
+msgstr ""
+
+msgid "Default item length if it not specified"
+msgstr ""
+
+msgid "Default item width (cm)"
+msgstr ""
+
+msgid "Default item width if it not specified"
+msgstr ""
+
+msgid "Default item height (cm)"
+msgstr ""
+
+msgid "Default item height if it not specified"
+msgstr ""
+
+msgid "Shipping NDS"
+msgstr ""
+
+msgid "Order Prefix"
+msgstr ""
+
+msgid "N/A"
+msgstr ""
+
+msgid "Synchronization for status \"%s\""
+msgstr ""
+
+msgid "Please, enter Client ID."
+msgstr ""
+
+msgid "Please, enter Client Secret."
+msgstr ""
+
+msgid "Please, enter Yandex Maps key."
+msgstr ""
+
+msgid "Please, enter default weight."
+msgstr ""
+
+msgid "Please, enter default length."
+msgstr ""
+
+msgid "Please, enter default width."
+msgstr ""
+
+msgid "Please, enter default height."
+msgstr ""
+
+msgid "Please, enter shipping NDS."
+msgstr ""
+
+msgid "Please, enter order prefix."
+msgstr ""

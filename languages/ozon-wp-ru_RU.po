@@ -1,0 +1,179 @@
+# Translation for Plugin
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-30 16:25+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.8\n"
+"Project-Id-Version: Plugins - RC WooCommerce Buy One Click\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"Language: ru\n"
+
+msgid "Ozon Delivery"
+msgstr "Озон Доставка"
+
+msgid "Ozon Courier"
+msgstr "Курьер Озон"
+
+msgid "Ozon Pickup"
+msgstr "ПВЗ Озон"
+
+msgid "Ozon Postamat"
+msgstr "Постамат Озон"
+
+msgid "Print Sticker"
+msgstr "Распечатать стикер"
+
+msgid "Print Document"
+msgstr "Распечатать документ"
+
+msgid "Create Document"
+msgstr "Создать документ"
+
+msgid "History"
+msgstr "История"
+
+msgid "Select on map"
+msgstr "Выбрать на карте"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Buyer First Name"
+msgstr "Имя покупателя"
+
+msgid "Buyer Last Name"
+msgstr "Фамилия покупателя"
+
+msgid "Buyer Phone"
+msgstr "Телефон покупателя"
+
+msgid "Buyer E-mail"
+msgstr "E-mail покупателя"
+
+msgid "Buyer Type"
+msgstr "Тип покупателя"
+
+msgid "Individual"
+msgstr "Физ. лицо"
+
+msgid "Legal"
+msgstr "Юр. лицо"
+
+msgid "Buyer Legal Name"
+msgstr "Имя юр. лица"
+
+msgid "Package Weight (kg)"
+msgstr "Вес посылки (кг)"
+
+msgid "Package Dimensions (cm)"
+msgstr "Габариты посылки (см)"
+
+msgid "From Warehouse"
+msgstr "Отправка со склада"
+
+msgid "Full paid"
+msgstr "Полная предоплата"
+
+msgid "Payed (%s)"
+msgstr "Оплачено (%s)"
+
+msgid "Send Order"
+msgstr "Отправить заказ"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Every minute"
+msgstr "Каждую минуту"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Choose pickup point"
+msgstr "Выберите пункт самовывоза"
+
+msgid "Choose postamat"
+msgstr "Выберите постамат"
+
+msgid "Please, choose point on map"
+msgstr "Пожалуйста, выберите точку на карте"
+
+msgid "Enable/Disable"
+msgstr "Включить/Выключить"
+
+msgid "Client ID"
+msgstr "Client ID"
+
+msgid "Client Secret"
+msgstr "Client Secret"
+
+msgid "Yandex Maps Key"
+msgstr "API-Ключ Яндекс.Карт"
+
+msgid "Default item weight (kg)"
+msgstr "Вес позиции по умолчанию (кг)"
+
+msgid "Default item weight if it not specified"
+msgstr "Вес позиции по умолчанию если он не задан"
+
+msgid "Default item length (cm)"
+msgstr "Длина позиции по умолчанию (см)"
+
+msgid "Default item length if it not specified"
+msgstr "Длина позиции по умолчанию если она не задана"
+
+msgid "Default item width (cm)"
+msgstr "Ширина позиции по умолчанию (см)"
+
+msgid "Default item width if it not specified"
+msgstr "Ширина позиции по умолчанию если она не задана"
+
+msgid "Default item height (cm)"
+msgstr "Высота позиции по умолчанию (см)"
+
+msgid "Default item height if it not specified"
+msgstr "Высота позиции по умолчанию если она не задана"
+
+msgid "Shipping NDS"
+msgstr "НДС доставки"
+
+msgid "Order Prefix"
+msgstr "Префикс заказа"
+
+msgid "N/A"
+msgstr "не задано"
+
+msgid "Synchronization for status \"%s\""
+msgstr "Синхронизация со статусом \"%s\""
+
+msgid "Please, enter Client ID."
+msgstr "Пожалуйста, введите Client ID."
+
+msgid "Please, enter Client Secret."
+msgstr "Пожалуйста, введите Client Secret."
+
+msgid "Please, enter Yandex Maps key."
+msgstr "Пожалуйста, введите API-Ключ Яндекс.Карт."
+
+msgid "Please, enter default weight."
+msgstr "Пожалуйста, введите вес по умолчанию."
+
+msgid "Please, enter default length."
+msgstr "Пожалуйста, введите длину по умолчанию."
+
+msgid "Please, enter default width."
+msgstr "Пожалуйста, введите ширину по умолчанию."
+
+msgid "Please, enter default height."
+msgstr "Пожалуйста, введите высоту по умолчанию."
+
+msgid "Please, enter shipping NDS."
+msgstr "Пожалуйста, введите НДС доставки."
+
+msgid "Please, enter order prefix."
+msgstr "Пожалуйста, введите префикс заказа."
